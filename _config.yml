@@ -1,0 +1,10 @@
+# Olari Masjid – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Olari Masjid"
+description: "Olari Masjid, Kuunkehrä 4 C, 02210 Espoo. Rukousajat, tapahtumat ja toiminta."
+moskeija: olari-masjid     # tiedosto _moskeijat/olari-masjid.md
+
+# Osoite: https://suomen-moskeijat.github.io/olari-masjid/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/olari-masjid"
